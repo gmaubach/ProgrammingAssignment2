@@ -1,7 +1,7 @@
 # ---------------------------------------------------------
 # Project     : Coursera Data Science: R Programming
 # Sub Project : Week 3 - Programming Assignment 2
-# Task        : Clojure
+# Task        : Lexical Scoping
 # Author      : Georg Maubach
 # Created     : 2016-12-10
 # Updated     : 2016-12-10
